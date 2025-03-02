@@ -1,0 +1,4 @@
+python== 3.9
+matplotlib== 3.5.2
+requests== 2.28.2
+pyhton-docx== 1.1.2
